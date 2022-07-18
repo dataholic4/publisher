@@ -4,9 +4,9 @@ Publish content to target platform using youtube source.
 
 ## Target platform
 
-- [ ]: https://anchor.fm/    
-- [ ]: https://www.podbbang.com/    
-- [ ]: https://audioclip.naver.com/    
+- [ ] https://anchor.fm/    
+- [ ] https://www.podbbang.com/    
+- [ ] https://audioclip.naver.com/    
 
 ## Platform requirment
 
