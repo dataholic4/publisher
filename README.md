@@ -7,6 +7,8 @@ Publish content to target platform using youtube source.
 - [ ] https://anchor.fm/    
 - [ ] https://www.podbbang.com/    
 - [ ] https://audioclip.naver.com/    
+- [ ] meta(for notification)    
+
 
 ## Platform requirment
 
